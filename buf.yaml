@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/jon-whit/grpc-demo
+breaking:
+  use:
+    - FILE
+lint:
+  use:
+    - DEFAULT
